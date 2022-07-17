@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rawgosh
+- 👋 Hi, I’m Rawgosh
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python Programming Language.
 - 📫 You can reach me via my instagram. -> @_r_s__9
