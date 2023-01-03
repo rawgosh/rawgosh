@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rawgosh
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python Programming Language.
-- 📫 You can reach me via my instagram. -> @_r_s__9
+- 🌱 I’m currently learning Frontend Development.
+- 📫 You can reach me via my instagram. -> @rawgosh
 
 <!---
 rawgosh/rawgosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
